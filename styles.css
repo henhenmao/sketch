@@ -1,0 +1,35 @@
+
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+#grid {
+    border: 1px solid black;
+    padding: 0;
+    margin-top: 25px;
+    display: flex;
+    width: 600px;
+    height: 600px;
+    text-align: center;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.cell {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.cell:hover {
+    background-color: black;
+    transition: background-color 0.3s;
+}
