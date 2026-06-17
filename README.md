@@ -11,3 +11,11 @@ This is a solution from the [Odin Project's Etch-a-Sketch project](https://www.t
 - Rainbow mode—toggle on to paint each cell a random color instead of black.
 - Clear Canvas—wipe the grid and start over with a clean slate
 
+## How to run
+```bash
+git clone https://github.com/henhenmao/sketch.git
+cd sketch
+open index.html        # macOS
+# or simply double-click index.html
+```
+There is also a GitHub Pages link to the calculator!
