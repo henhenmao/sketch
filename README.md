@@ -18,4 +18,4 @@ cd sketch
 open index.html        # macOS
 # or simply double-click index.html
 ```
-There is also a GitHub Pages link to the calculator!
+There is also a GitHub Pages link to the program!
